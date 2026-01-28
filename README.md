@@ -55,12 +55,3 @@ arXiv:1512.03385
 
 ---
 
-## 🚀 Future Improvements
-- Hyperparameter optimization
-- Training on larger datasets
-- Model compression or inference optimization
-- Conversion to an API for deployment
-
----
-
-## 📁 Project Structure
